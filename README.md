@@ -17,3 +17,7 @@ Make a branch with your name and make sure you're working on that branch.
 Make a commit at least once an hour, talking in verbs like "added Character Concept PNGs".
 
 When you need to catch up, merge changes from the main branch onto your branch.
+
+## Credits/External Assets
+
+Ink Integration Package: https://assetstore.unity.com/packages/tools/integration/ink-integration-for-unity-60055
