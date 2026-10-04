@@ -1,63 +1,44 @@
-When you start an ink file, content outside of knots will be run automatically.
+// toying with variable choices in a game loop
 
-check
-* run test -> test
-* [end story on purpose]
-blah
+hello again! -> start
 
+== start
 
-// the compiler will print this out?
-TODO: Write this section properly!
+would you like to loop? <> 
+* [yes please] splendid! <>
+-> loop
++ no please never again 
+-> post
+// if they read the comments
+* {post.comments} you have read the comments -> END
 
-blah blah
+== post
+{post < 2: you don't know what to do with yourself so} you check the post... -> choice
 
--> END
+= choice
++ leave 
+-> start
+* read the underside 
+-> comments
+= comments
+o shit it has the secret recipe for escaping the game
+-> post
 
+== loop
+* loop time. 
+hell yea.
 
+// you can't start an option's text with a {, as it'll look like a conditional.
+// if you escape a whitespace \ before your { ink will recognise it as text.)
+// 
+// if a choice is just an option with no [ square brackets to ignore ] or any text before or after it, then it will skip printing every other choice
++ [\ {woah i'm looping asf right now | wait am i stuck here|let me oute!|let me ouuuuute!|ahhh|ahhhhhh|hah|gahhhhhhhhhhhhh|ah|...| okay, i'm sorry. can we play pong now?}]
+* [*stop breathing*] o shit i didn't know you could do that -> END
+- {loop > 10} -> pong
+// - silence -> loop
+// minus sign is a fallback: always loop unless you break sequence
+-  -> loop
 
-
-
-
-
-
-
-== test
-this line is tagged # tagged asf
-
-heyo
-* [text]
-    im gonna text my bestie
-    -> test
-* flip
--> do_a_flip
-
-1
-*[2]
-3
-// alternate ending to text
-*We're so [over guys] back my friends
-*5
-
-->do_a_flip
-
-== do_a_flip
-// linebreak for clarity, using "glue" <> to stop a linebreak rendering
-    you do a flip <>
-    -> land_it
-    
-== land_it
-    and land it perfectly
-    -> not_this_fucking_guy
-    
-    
-== not_this_fucking_guy
-Not this fucking guy...
-// dialogue with alternate endings, internal monologue
-"How are you?"
-*	I could lie a little...[] "I am somewhat tired." I say.
-	"Really," he responds. "How deleterious."
-*   I should try and cover it up; say "I am [fine."] fucking tired," I say with a sigh -- hey I was meaning to lie!
-    "... okay, have a coffee or something?" he says.
-*   Why does he suddenly care? [] "Mind your business," I say, avoiding eye contact.
-
-
+== pong
+pong time
++ [\ {&left|right}] -> pong
