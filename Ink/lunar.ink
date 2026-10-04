@@ -24,7 +24,7 @@ First Quarter. <>
 -> dream
 
 = waning_crescent
-Waning Crescent.
+Waning Crescent. <>
 {waning_crescent == 2: Potentialities in the atmosphere tickle your skin.}
 -> dream
 
