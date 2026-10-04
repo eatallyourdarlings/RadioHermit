@@ -1,8 +1,7 @@
 
 # Aesthetics
 
-Where unsorted notes on the game's design and worldbuilding can go.
-
+Where unsorted notes on the game's design and worldbuilding can go. For more concrete things see [Visual Direction](VisualDirection.md) and [UserInterface](UserInterface.md)
 
 
 ## interesting phenomena...
