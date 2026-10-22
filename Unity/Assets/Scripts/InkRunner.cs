@@ -5,20 +5,23 @@ using UnityEngine.UI;
 
 public class InkRunner : MonoBehaviour
 {
-//makes private vars show in inspector
     [SerializeField] TextAsset inkJSON;
     [SerializeField] TMP_Text storyText, dayText, moonText;
     [SerializeField] Transform choiceContainer;
     [SerializeField] Button choiceButtonPrefab;
 
-// holds all the ink states. variables, current position, choices.
+    //Sprite Stuff
+    [SerializeField] Image backgroundImage;
+    [SerializeField] Image characterImage;
+    [SerializeField] Sprite[] backgrounds;
+    [SerializeField] Sprite[] characters;
+
     Story story;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
     void Start()
     {
         story = new Story(inkJSON.text);
 
-        // observablevariable means "when this ink variable changes", run this function
         story.ObserveVariable("day",  (n, v) => dayText.text  = $"day = {v}");
         story.ObserveVariable("moon", (n, v) => moonText.text = $"moon = {v}");
 
@@ -27,21 +30,21 @@ public class InkRunner : MonoBehaviour
 
         Refresh();
     }
+
     //redraws the screen
-   void Refresh()
+    void Refresh()
     {
-        // advances Ink by one line and returns that line as a string.
         foreach (Transform c in choiceContainer) Destroy(c.gameObject);
         storyText.text = "";
 
         while (story.canContinue)
         {
             storyText.text += story.Continue();
+
             foreach (string tag in story.currentTags)
-                Debug.Log("tag: " + tag);   // this is where scene/speaker hooks go later
+                ReadTag(tag);
         }
 
-        // currentchoices is the list of options the player can pick
         foreach (Choice choice in story.currentChoices)
         {
             Button b = Instantiate(choiceButtonPrefab, choiceContainer);
@@ -50,5 +53,54 @@ public class InkRunner : MonoBehaviour
             b.onClick.AddListener(() => { story.ChooseChoiceIndex(index); Refresh(); });
         }
     }
-    
+
+    //tags look like "scene:siphons"
+    void ReadTag(string tag)
+    {
+        string[] parts = tag.Split(':');
+
+        if (parts.Length != 2)
+        {
+            Debug.LogWarning("weird tag, no colon: " + tag);
+            return;
+        }
+
+        string key = parts[0].Trim();
+        string value = parts[1].Trim();
+
+        if (key == "scene") SwitchDepthScene(value);
+        if (key == "speaker") SetSpeaker(value);
+    }
+
+    void SwitchDepthScene(string sceneName)
+    {
+        Sprite found = FindSprite(backgrounds, sceneName);
+        if (found != null) backgroundImage.sprite = found;
+        else Debug.LogWarning("no backdrop called " + sceneName);
+    }
+
+    //"none" hides the character
+    void SetSpeaker(string speakerName)
+    {
+        if (speakerName == "none")
+        {
+            characterImage.enabled = false;
+            return;
+        }
+
+        Sprite found = FindSprite(characters, speakerName);
+        if (found != null)
+        {
+            characterImage.sprite = found;
+            characterImage.enabled = true;
+        }
+        else Debug.LogWarning("no sprite for speaker " + speakerName);
+    }
+
+    Sprite FindSprite(Sprite[] list, string spriteName)
+    {
+        foreach (Sprite s in list)
+            if (s.name == spriteName) return s;
+        return null;
+    }
 }
