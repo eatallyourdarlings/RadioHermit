@@ -5,19 +5,14 @@ Speculative design doc for a visual novel game that might be pitched to Games fo
 
 Its been broken down into a bunch of docs in this folder.
 
-
-
 ## Themes:
 
 How do we cope? Through incremental change, getting in touch with natural cycles.
-- slow play
-	- Lunar cycles?
-	- Daily ritual
-	- Fluctuating capacity with the Tides could be read as a metaphor for living with health problems: trauma; disabilities; chronical illness.
-- What kinds of Connection??
+- Agency changing with the Tides could be read as a metaphor for fluctuating capacity from living with health problems: trauma; disabilities; chronical illness.
+- What kinds of connection?
 - Subjectivity of time
 - Feeling caught (even preyed upon) by flowing attention-hooked states
-- Interested in habits around smart phone usage and how micro-choices can change your life.
+- Interested in habits (ritual and smart phone usage) and how micro-choices can add up to change your life.
 
 ### Big feelings! 
 This game deals with tough subject matter based on real lived experience of growing up through the dusk of the Anthropocene, and the drawn-out death of the Internet.
@@ -38,10 +33,7 @@ But moving towards:
 
 ## Gameplay
 
-
-Complementing a narrative structure about repetition, routine, making you feel small. 
-
-Iterative change in little choices you can make daily.
+Complementing a narrative structure about repetition, routine, making you feel small at first but then finding iterative change in little choices you can make daily.
 
 **Considering how you exercise your agency in small ways by how use your spare time and attention, and through intentional use of technology.**
 
