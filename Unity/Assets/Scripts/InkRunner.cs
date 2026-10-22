@@ -100,7 +100,9 @@ public class InkRunner : MonoBehaviour
     Sprite FindSprite(Sprite[] list, string spriteName)
     {
         foreach (Sprite s in list)
-            if (s.name == spriteName) return s;
+        {
+            if (s.name == spriteName || s.name == spriteName + "_0") return s;
+        }
         return null;
     }
 }
