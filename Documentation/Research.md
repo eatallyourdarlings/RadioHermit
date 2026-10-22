@@ -1,7 +1,22 @@
+# Misc research...
 
-# Aesthetics
+## Emulating Relationships 
+An important (but maybe not essential) experience of Relation is Embodiment, but we are so often disembodied by digital media. How can it be otherwise?
 
-Where unsorted notes on the game's design and worldbuilding can go. For more concrete things see [Visual Direction](VisualDirection.md) and [UserInterface](UserInterface.md)
+VR/AR does not feel like an answer, but there could be some commentary to be had in what is lost in its lack of tactile materiality.
+
+## SYMBIOPUNK
+
+https://www.audaxaudax.com/symbiopunk
+
+> Symbiopunk replaces myths of human exceptionalism with a celebration of the messy mutualism of earth ecologies.
+
+https://www.audaxaudax.com/emergent-narratives
+
+> How do the stories we tell change in content and form when led by lifeways beyond the human? What happens when stories flock, flow, stampede or sporulate?
+
+https://www.audaxaudax.com/collaborative-constellations-art-lab
+> Contemplating materials, sites, corporeal occupation and atmospheric  engagement, students generated their own constellation of collaborators, de-centering themselves as makers and amplifying the presence of influences across a range of scales, forms and temporalities.
 
 
 ## interesting phenomena...

@@ -53,7 +53,7 @@ Here's a mockup: in this picture, you're looking out and can see your shell's an
 
 ![](OliveRF-261002-UI-mockup.png)
 
-Images, music and video are streams of bubbles coming from signalstars. When you want to break out of a streaming-spiral, you find yourself reflected back in the "black screen" of a siphonophore hooked onto the face of your shell, blocking out the light.
+Images, music and video are streams of bubbles coming from the Siphon's Attention Hooks. When you want to break out of a streaming-spiral, you find yourself reflected back in the "black screen" of a siphonophore hooked onto the face of your shell, blocking out the light.
 
 ### ASCII art?
 
