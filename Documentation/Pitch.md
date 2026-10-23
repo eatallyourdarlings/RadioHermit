@@ -42,10 +42,14 @@ Choices to
     keep eyes closed
         listen to subtle sounds
 
-Seven different depths of scenes (Shores to Fringe)
+Seven different depths of scenes (Shores to Fringe). Options to move between depths based on the Moon Phase ...
 
-Options to move between depths based on the Moon Phase ...
 
+For a month, the game can become part of your routine
+- Each event has a **duration based on lunar phases**. 
+	- Some are specific: e.g. "I'll be there on First Quarter" gives you only one day.
+	- Some are general: e.g. "you can catch me while the moon's waxing" gives you 14 days from Dark-Moon to Bright-Moon.
+There's **no UI to assist you in remembering events**.
 
 
 ## Lunar Narrative Cycle

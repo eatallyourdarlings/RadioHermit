@@ -57,7 +57,7 @@ You catch their propaganda amidst the noise of The Siphons:
 
 ### The Passersby
 
-Folks in the Mid-depths and around the Siphons that wear more **uniform and grat shells, just slightly larger than their bodies**. You can have an occasional interaction with them when you're on your commute.
+Folks in the Mid-depths and around the Siphons that wear more **uniform gray shells, just slightly larger than their bodies**. You can have an occasional interaction with them when you're on your commute.
 
 ### The Activists
 
