@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0394e71986d24e940856e4cab21dfd64
+timeCreated: 1462291397
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60055
+  packageName: Ink Integration for Unity
+  packageVersion: 1.1.8
+  assetPath: Assets/Ink/Editor/Tools/File Icons/Resources/InkDefaultTemplate.txt
+  uploadId: 600250

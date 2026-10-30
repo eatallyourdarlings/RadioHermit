@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a8e581e13bc939144a239381692dfb9b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60055
+  packageName: Ink Integration for Unity
+  packageVersion: 1.1.8
+  assetPath: Assets/Ink/Editor/Tools/Startup Window/InkUnityIntegrationStartupWindow.cs
+  uploadId: 600250

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb0edd93111b7e345a3f268039dc0ba0
+timeCreated: 1460814135
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60055
+  packageName: Ink Integration for Unity
+  packageVersion: 1.1.8
+  assetPath: Assets/Ink/Extras/Sublime3Syntax.zip
+  uploadId: 600250

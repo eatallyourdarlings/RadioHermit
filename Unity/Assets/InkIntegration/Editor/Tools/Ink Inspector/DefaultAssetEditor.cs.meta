@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 90bed0b0a59620e449f34f00adbebaf6
+timeCreated: 1464440328
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60055
+  packageName: Ink Integration for Unity
+  packageVersion: 1.1.8
+  assetPath: Assets/Ink/Editor/Tools/Ink Inspector/DefaultAssetEditor.cs
+  uploadId: 600250

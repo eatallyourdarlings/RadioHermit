@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b956c88b9257a5540af1534d4a7e5fc6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60055
+  packageName: Ink Integration for Unity
+  packageVersion: 1.1.8
+  assetPath: Assets/Ink/InkLibs/InkRuntime/PushPop.cs
+  uploadId: 600250

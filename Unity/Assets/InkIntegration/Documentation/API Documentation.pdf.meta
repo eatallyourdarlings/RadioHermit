@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b83669c0fa6a023439788ed4975d4857
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60055
+  packageName: Ink Integration for Unity
+  packageVersion: 1.1.8
+  assetPath: Assets/Ink/Documentation/API Documentation.pdf
+  uploadId: 600250

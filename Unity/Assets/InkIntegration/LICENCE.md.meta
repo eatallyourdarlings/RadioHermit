@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8baade29eb4aa8f4b8b0c81468038f41
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60055
+  packageName: Ink Integration for Unity
+  packageVersion: 1.1.8
+  assetPath: Assets/Ink/LICENCE.md
+  uploadId: 600250

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e8811c673d0b42c40a4d083efa6b9be5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60055
+  packageName: Ink Integration for Unity
+  packageVersion: 1.1.8
+  assetPath: Assets/Ink/InkLibs/InkCompiler/InkParser/InkParser_Include.cs
+  uploadId: 600250
