@@ -10,11 +10,7 @@
 - Requires you to play only once a day, for five minutes, to progress the story.
 - Dealing with impending cataclysm and giving you an **everyday choice between action and inaction**
 
-!image.png
-
 ### Kenny Sun (2021) *Tender: Creature Comforts*
-
-!image.png
 
 - A queer dating-app game!
 - Interesting dialogue system where you select from “shorthand” options and then fake-type them your keyboard (very juicy)
@@ -27,16 +23,12 @@
 
 ### Porpentine (2019) *With Those We Love Alive*
 
-!image.png
-
 - Text adventure with limited choices, which can start to feel like proceduralised depression.
 - Blurs the line between the protagonist and the player through asking them to draw sigils on their body.
 - Within repetitive choices could choose to construct a daily routine for yourself. There are occasional little “glimmers” of novelty if you do decide to taking a daily walk.
 - Second-person tense of writing: instructional, degrading, confronting.
 
 ### Superbrothers (2011) *Swords and Sworcery: EP*
-
-!image.png
 
 - An archetypal self-aware “hero’s journey” zelda-like that was an early hit for iOS.
 - Made an impact in its use of the real-time lunar cycle, but was also easy to cheat.

@@ -1,21 +1,8 @@
-# Pitch
+# Pitch Script
 
-<<<<<<< Updated upstream
-acknowledge the Wurundjeri Woi Wurrung and Boon Wurrung Bunurong peoples of the eastern Kulin Nations 
+acknowledge the Wurundjeri Woi Wurrung and Boon Wurrung peoples of the eastern Kulin Nations who have been storytelling and playing on Country for much longer than this colony existed
+sovereignty was never ceded to so-called Australia.
 
-## Elevator Pitch (2-3 sentences)
-
-*InterTidal* is a text narrative game that takes place in semi-real time over the course of a lunar cycle. You play in short daily sessions, controlling a diegetic smartphone-like interface to influence how our protagonist Spira spends their finite downtime. The backdrop of our story is a **symbiopunk setting where humanity's Internet is the ocean**, Its citizens live around organic network megastructures, floating in their isolating radio-conch-shells.
-
-Spira is a queer and disabled young adult who is learning to **make small incremental changes in their life** to move out of alienation and try to thrive, not just survive, the overwhelm of the Polycrisis. Throughout the narrative cycle they rethink their relationship with the internet, seek community and move out of their comfort zone into gentler waters or deeper connections. 
-
-InterTidal is akin to a Twine or Visual Novel format RPG with a small scope of branching paths, that we'd describe as a "social-media alienation simulator that you play over a month".
-=======
-acknowledge the Wurundjeri Woi Wurrung and Boon Wurrung Bunurong peoples of the eastern Kulin Nations who have been storytelling and playing on Country for much longer than this colony
-sovereign was never ceded to so-called Australia.
-
-
-this game engages with themes of grassroots organising, art and activism, in the aims of decolonising the imagination
 
 ## This you?
 
@@ -38,7 +25,6 @@ Moving from surviving alienation towards thriving with community through daily c
 **Importantly, we don't see these events play out, we just see the interface that connection is facilitated through!**
 
 Spira is a queer and disabled young adult who is learning to **make small incremental changes in their life**. Throughout the narrative cycle they rethink their relationship with technology and the internet, seek community and move out of their comfort zone into gentler waters or deeper connections.
->>>>>>> Stashed changes
 
 ## Similar Titles
 
@@ -63,35 +49,19 @@ Kara Stone
 
 ## Gameplay Loop
 
-<<<<<<< Updated upstream
-=======
-
-
->>>>>>> Stashed changes
 Signal / Noise
 
 Daily play
 
-<<<<<<< Updated upstream
-=======
-Seven different depths of scenes (Shores to Fringe). **Options to move between depths based on the Moon Phase ...**
-
->>>>>>> Stashed changes
 Start the day with your eyes closed, black screen
 Choices to 
     keep eyes closed
         listen to subtle sounds
 
-<<<<<<< Updated upstream
 Seven different depths of scenes (Shores to Fringe). Options to move between depths based on the Moon Phase ...
 
 
 For a month, the game can become part of your routine
-=======
-
-**For a month, the game can become part of your routine**
-
->>>>>>> Stashed changes
 - Each event has a **duration based on lunar phases**. 
 	- Some are specific: e.g. "I'll be there on First Quarter" gives you only one day.
 	- Some are general: e.g. "you can catch me while the moon's waxing" gives you 14 days from Dark-Moon to Bright-Moon.
@@ -136,16 +106,12 @@ Depths freaks
 
 **Considering how you exercise your agency in small ways by how use your spare time and attention, and through intentional use of technology.**
 
-<<<<<<< Updated upstream
 **Who is this for?** Young adults like most of us in the course, who use a smart phone heavily for socialising and wants to reconsider their relationships
 There's a sentiment I hear from a lot of people that our generation is not lacking political conscience, but feeling disempowered by the overwhelming everythingness of it all. This is why we wanted to pitch this to Games For Change in their prompt calling for games that deal with emotions of dealing with Permacrisis: 
 
 The average experience of living through PermaCrisis for our generation seems to be treading water in interconnected tragedies, to feel incredibly inundated with information and starved for quality connection.
 
 This game deals with tough subject matter based on real lived experience of growing up through the dusk of the Anthropocene, and the drawn-out death of the Internet.
-=======
-
->>>>>>> Stashed changes
 
 
 Some negative emotions we're drawing on (might be worth putting a content warning) include:

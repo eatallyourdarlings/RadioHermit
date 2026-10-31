@@ -1,17 +1,17 @@
 # Worldbuilding
 
 
-A more Oceanic World, living more symbiotically, but with their own organic internet with similar power structures to ours, and the relational problems inherent to that. To these folks, the Ocean is the Internet, and there's lots of different colloquial terms that they use to describe it, like *worrywaves*.
+In InterTidal, humans inhabit an ocean planet living more symbiotically with no separation between culture and nature. With their own organic internet with similar power structures to ours, comes exploitative design and the relational problems inherent to that. To these folks, the Ocean is the Internet, and there's lots of different colloquial terms that they use to describe it, like *worrywaves*.
 
-What kind of fantasy? It can’t be escapism; worldbuilding for the sake of worldbuilding; but a strong metaphor centered around connection
+*What kind of fantasy?* It can’t be escapism; worldbuilding for the sake of worldbuilding; but a strong metaphor centered around connection.
 
-- **Symbiopunk:** no inorganic technology.
+- **Symbiopunk:** no inorganic technology. Beyond biopunk, a term coined by Audax 
 - **Integration/cyborgism:** we see a spectrum of humans with different relationships with their shells, with meaningful  proportions between Human-Shell. 
 - **Not mermaids:** these humans are still mammals best suited for land, and their symbiotic technology is overall a bit awkward and un-ergonomic.
 
 ## Themes
 
-With less exposure to the noise and more local connection, you feel more **agency for change.**
+With less exposure to the attention-draining noise and more connection, you feel more **agency for change.**
 Connection with local ecology facilitates connection between humans.
 
 Through intentional use of the Internet, you can discover the varied and empowering community responses to local crises like pollution, Data Centres, surveillance and rise of policing. There is resistance if you look for it! By the end of the story, our protagonist is taking their first steps into Activism and Mutual Aid.
@@ -29,6 +29,23 @@ Through intentional use of the Internet, you can discover the varied and empower
 - Siphonophores = Monolithic internet platforms
 - Attention Hooks = dark design patterns; algorithms; addiction. (previously called Signalstars)
 - Stridulation (acoustic waves underwater) = internet protocols (waves underair)
+
+### interesting phenomena...
+
+**carcinoecium** - a chitin on the outside of a shell that is produced by an attached sea anemone in a symbiotic relationship with a hermit crab.
+
+[Kleptoplasty](https://en.wikipedia.org/wiki/Kleptoplasty) - sea-slugs are solar-powered through this symbiotic relationship where they eat but don't entirely digest photosynthetic algae, and it is used to **form complex patterns in their skin**.
+
+**intertidal** - "between tides". **intertidal zone** is the middle depths of the ocean, between the high and lowest part of the shore: the beach exposed at maximum ebb spring tides. a.k.a. foreshore.
+
+**Marine Noise Pollution** - Sound travels five times faster in water than in air. Mammals are particularly susceptible to and overwhelmed by this.
+
+**stridulation** - the creation of acoustic waves through body parts adapted for rubbing together and creating a shrill sound: crickets, grasshoppers and strawberry hermit crabs all use this to communicate.
+
+**sonification** - turning data into sound.
+
+**tidal power** - potential energy of the movement of waves.
+ 
 
 ## Changing Tides
 
@@ -148,3 +165,5 @@ The Depths are analogous Deep Web/Algorithmic Rabbit Holes. Taking a Dive is goi
 The Fringes are the undergrowth of the Depths: **shells and buoys tied together** to weather the Depths in online communities, forming **bridges between Siphons**. You can find **interesting fringe communities** (queer, underground artists and subversive characters). If our protagonist explores and makes connections here, then by the end of the story cycle they've started to find their own little niche where they fit in.
 
 Folks at The Fringes live on the **edge of the Drop**: the deepest Depths / dark web / impassable edges of the known world.
+
+

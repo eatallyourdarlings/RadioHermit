@@ -3,7 +3,7 @@
 
 Speculative design doc for a visual novel game that might be pitched to Games for Change -- Olive R.F. September-October 2026
 
-Its been broken down into a bunch of docs in this folder.
+Its been broken down into a bunch of docs in this Documentation folder.
 
 ## Themes:
 
@@ -70,7 +70,7 @@ We are considering that the story takes place in real-time as well, only allowin
 
 - With your eyes closed, check in with yourself for the day.
 	- Maybe set an intention?
-- Follow "signals" dialogue branches to find Events.
+- Follow "signals" dialogue branches to find Relationships and learn about upcoming  Events.
 - Follow "noise" dialogue branches to lose Time
 - Move between scenes if the tides are strong enough
 
@@ -128,18 +128,16 @@ Time is more subtle and after an interesting engagement with someone, you'll sti
 	- Or perhaps there's a lot less options presented to you than the "easy" attention-catching ones.
 
 
-
 ### Mechanics that will probably be scrapped...
 
-- Finite playtime each day
-	- Kinda creates FOMO because you can waste it.
 - There's a dice roll for how much energy you have on a given day
 	- It might be based on how energy-expending your interactions of the previous day
+	- or, more predictably, based on the Lunar phase/ low tides!
 
 
 ## Accessibility
 - Content warnings
-- Turn of lighting
+- Turn off lighting
 - Close captions + any sound effects
 - Volume sliders
 - auto-saves

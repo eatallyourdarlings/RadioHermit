@@ -1,6 +1,4 @@
-Characters
-
-## Characters
+## Character Relationships
 
 **Each of these characters might represent different perspectives on what the internet's for, how they use it, and how they connect with people outside of it.**
 
@@ -11,7 +9,6 @@ Names are derived from prefixes, like those we might find in names of pelagic or
 - Strata
 - Lumi
 - Sola
-
 
 ### Protagonist
 
@@ -28,7 +25,7 @@ You are at a point in your life where you are trying to quit your jobs underwate
 You live with disabilities/chronic illnesses which can put hard limits on your capacity and make your days unpredictable.
 
 
-### The Introverted Solarpunk
+### Sola The Introverted Solarpunk
 
 They are art of a rad internet community with DIY sensibilities, but they still feel like online socialisation is a poor substitute to face-to-face connections and they encourage you to pursue them, to get closer to the surface.
 
